@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-08T16:46:05.283</Modified>
+      <Modified>2021-06-08T17:17:43.420</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -153,227 +153,227 @@
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.680</Modified>
+      <Modified>2021-06-08T17:17:09.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.705</Modified>
+      <Modified>2021-06-08T17:17:09.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.733</Modified>
+      <Modified>2021-06-08T17:17:09.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.773</Modified>
+      <Modified>2021-06-08T17:17:09.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.902</Modified>
+      <Modified>2021-06-08T17:17:09.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.357</Modified>
+      <Modified>2021-06-08T17:17:09.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.369</Modified>
+      <Modified>2021-06-08T17:17:09.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.382</Modified>
+      <Modified>2021-06-08T17:17:09.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.395</Modified>
+      <Modified>2021-06-08T17:17:09.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.413</Modified>
+      <Modified>2021-06-08T17:17:09.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.210</Modified>
+      <Modified>2021-06-08T17:17:09.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.245</Modified>
+      <Modified>2021-06-08T17:17:09.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.288</Modified>
+      <Modified>2021-06-08T17:17:09.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.586</Modified>
+      <Modified>2021-06-08T17:17:10.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.429</Modified>
+      <Modified>2021-06-08T17:17:09.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.443</Modified>
+      <Modified>2021-06-08T17:17:09.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.458</Modified>
+      <Modified>2021-06-08T17:17:09.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.516</Modified>
+      <Modified>2021-06-08T17:17:09.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.125</Modified>
+      <Modified>2021-06-08T17:17:09.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.138</Modified>
+      <Modified>2021-06-08T17:17:09.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.182</Modified>
+      <Modified>2021-06-08T17:17:09.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.150</Modified>
+      <Modified>2021-06-08T17:17:09.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.162</Modified>
+      <Modified>2021-06-08T17:17:09.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.047</Modified>
+      <Modified>2021-06-08T17:17:09.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.111</Modified>
+      <Modified>2021-06-08T17:17:09.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.073</Modified>
+      <Modified>2021-06-08T17:17:09.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.089</Modified>
+      <Modified>2021-06-08T17:17:09.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.913</Modified>
+      <Modified>2021-06-08T17:17:09.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.925</Modified>
+      <Modified>2021-06-08T17:17:09.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.936</Modified>
+      <Modified>2021-06-08T17:17:09.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.961</Modified>
+      <Modified>2021-06-08T17:17:09.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.975</Modified>
+      <Modified>2021-06-08T17:17:09.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.987</Modified>
+      <Modified>2021-06-08T17:17:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.030</Modified>
+      <Modified>2021-06-08T17:17:09.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.999</Modified>
+      <Modified>2021-06-08T17:17:09.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.011</Modified>
+      <Modified>2021-06-08T17:17:09.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.598</Modified>
+      <Modified>2021-06-08T17:17:10.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.610</Modified>
+      <Modified>2021-06-08T17:17:10.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.622</Modified>
+      <Modified>2021-06-08T17:17:10.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.634</Modified>
+      <Modified>2021-06-08T17:17:10.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.649</Modified>
+      <Modified>2021-06-08T17:17:10.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.531</Modified>
+      <Modified>2021-06-08T17:17:09.222</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.551</Modified>
+      <Modified>2021-06-08T17:17:09.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.570</Modified>
+      <Modified>2021-06-08T17:17:09.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.662</Modified>
+      <Modified>2021-06-08T17:17:09.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -382,27 +382,27 @@
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.357</Modified>
+      <Modified>2021-06-08T17:17:09.920</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.476</Modified>
+      <Modified>2021-06-08T17:17:09.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.947</Modified>
+      <Modified>2021-06-08T17:17:09.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:28.060</Modified>
+      <Modified>2021-06-08T17:17:09.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-02T03:53:27.595</Modified>
+      <Modified>2021-06-08T17:17:09.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -414,15 +414,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-06-08T16:46:04.758</Modified>
+      <Modified>2021-06-08T17:17:42.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Views\Login.xbf">
       <PackagePath>Views\Login.xbf</PackagePath>
-      <Modified>2021-06-08T16:46:04.758</Modified>
+      <Modified>2021-06-08T17:17:42.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2021-06-08T16:46:04.758</Modified>
+      <Modified>2021-06-08T17:17:42.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UAP\v0.8.0.0\ExtensionSDKs\SQLite.UWP.2015\3.35.5\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
@@ -442,7 +442,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Core\Sales system.exe">
       <PackagePath>Sales system.exe</PackagePath>
-      <Modified>2021-06-08T16:46:05.281</Modified>
+      <Modified>2021-06-08T17:17:43.417</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
