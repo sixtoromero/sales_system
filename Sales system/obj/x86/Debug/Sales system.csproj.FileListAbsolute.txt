@@ -1,0 +1,92 @@
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\App.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Views\Login.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Views\MainPage.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Sales system.xr.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Sales system.exe
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Sales system.pdb
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\resources.pri
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\AppxManifest.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Core\AppxManifest.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Core\Sales system.exe
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Sales system.build.appxrecipe
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Runtime.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Sales system.csprojAssemblyReference.cache
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\App.g.i.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\App.g.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\Login.g.i.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\Login.g.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\MainPage.g.i.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\MainPage.g.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\App.xaml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\MainPage.xaml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\Login.xaml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\App.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\MainPage.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Views\Login.xbf
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Sales system.csproj.CoreCompileInputs.cache
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Sales system.csproj.CopyComplete
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Sales system.exe
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Sales system.pdb
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\ResourceHandlingTask.state
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\priconfig.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\priconfig.xml.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\filtered.layout.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\excluded.layout.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\resources.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\resources.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\pri.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\pri.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\qualifiers.txt
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\ProjectArchitectures.txt
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\linq2db.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Connection.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Connection.pdb
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Connection.pri
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Connection.pri.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\resources.en-us.resfiles
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Models.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Models.pdb
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Models.pri
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\Models.pri.xml
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Data.SqlClient.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Data.SqlClient.pdb
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Identity.Client.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Win32.Registry.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Runtime.Caching.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Security.Permissions.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.Microsoft.Win32.Registry.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Runtime.Caching.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Dapper.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\RestSharp.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\SQLite.Net.Platform.WinRT.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\SQLite.Net.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\bin\x86\Debug\System.Data.DataSetExtensions.dll
+D:\Cursos\SalesSystem\Sales system\Sales system\obj\x86\Debug\FxResources.System.Data.DataSetExtensions.SR.resw

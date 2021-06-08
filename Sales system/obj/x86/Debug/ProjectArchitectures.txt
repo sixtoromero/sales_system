@@ -1,0 +1,4 @@
+D:\Cursos\SalesSystem\Sales system\Connection\Connection.csproj;x86
+D:\Cursos\SalesSystem\Sales system\Models\Models.csproj;x86
+D:\Cursos\SalesSystem\Sales system\Models\Models.csproj;x86
+D:\Cursos\SalesSystem\Sales system\Sales system\Sales system.csproj;x86
